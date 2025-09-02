@@ -15,7 +15,7 @@ Below are the key packages required to run the dashboard:
 * pyviz_comms – Communication layer for Panel ↔ Jupyter/browser interaction.
 * tabulator (via panel.widgets.Tabulator) – Interactive, paginated data tables in the dashboard.
 * tqdm – Progress bars (useful for data loading/debugging, not critical).
-* 
+  
 Installation
 Using Conda (recommended):
 Paste code into terminal:
